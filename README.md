@@ -1,5 +1,3 @@
-https://travis-ci.com/ajplee/CICD.svg?branch=master
-
 # CICD
 
 Learning CI/CD Pipelines
